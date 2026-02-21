@@ -1,30 +1,14 @@
-﻿# Hi, I'm Abolfazl Azad 👋
+﻿# DSP Course Project: Audio and Image Processing (CA2)
 
-🎓 B.Sc. Electrical Engineering Student  
-💻 Interested in Digital Systems, Embedded Systems, and Computer Architecture  
-🚀 Aspiring for graduate studies and research
+![MATLAB](https://img.shields.io/badge/MATLAB-R2024a%2B-orange)
+![Domain](https://img.shields.io/badge/Domain-Digital%20Signal%20Processing-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 🧠 About Me
-- ⚡ Electrical Engineering undergraduate student with a strong foundation in math, signal processing, and system-level thinking.
-- 🔍 Focused on building practical and efficient solutions in:
-  - 🔹 Digital Systems
-  - 🔹 Computer Architecture
-  - 🔹 Embedded Systems
-  - 🔹 Hardware Design
-- 🧪 I enjoy bridging theory and implementation through simulation, modeling, and hands-on lab work.
+This repository contains my Computer Assignment 2 for the **Digital Signal Processing (DSP)** course.  
+The project covers practical DSP workflows in both audio and image domains using MATLAB.
 
-## 🛠️ Technical Skills
-- 💬 Languages: C, C++, MATLAB, Verilog/HDL
-- 🧰 Tools: ModelSim, Multisim, Proteus, Simulink
-- 📚 Core Areas: Digital Systems, Control Systems, Signal Processing
+## Project Overview
 
-<<<<<<< HEAD
-## 📌 Featured Projects
-- 🔹 Digital Logic Design Projects
-- 🔹 Computer Architecture Labs
-- 🔹 Control Systems Simulations
-- 🔹 Signal Processing Projects
-=======
 The implementation is organized into three main parts:
 
 1. **Q1 - Audio analysis of `teletext.wav`**
@@ -160,9 +144,4 @@ Notes:
 
 The full report is available at:
 - `report/report.pdf`
->>>>>>> ee66b47d4409df9c2c068d73c569bd7a92984484
 
-## 🎯 Current Goals
-- 🚀 Deepen expertise in digital design and low-level system architecture.
-- 🧠 Build stronger research experience in embedded and hardware-oriented topics.
-- 🎓 Prepare for graduate studies with a focus on impactful engineering problems.
