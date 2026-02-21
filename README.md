@@ -46,7 +46,7 @@ Core topics used in this project:
 
 ## Part-by-Part Description
 
-### Q1: `teletext.wav` Analysis
+### Q1: `teletext.wav` Analysis.
 
 - Loads audio and reports sampling frequency
 - Estimates power spectrum using FFT (`Ts`-scaled)
